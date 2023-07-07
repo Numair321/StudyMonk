@@ -16,7 +16,6 @@ SwiftHire is an innovative digital recruitment solution app aimed at revolutioni
 
 ## Technologies Used
 
-- ##Front-end:
 -  HTML
 -  CSS
 -  JavaScript
